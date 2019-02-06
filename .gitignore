@@ -1,6 +1,5 @@
 .gradle
 /build/
-!gradle/wrapper/gradle-wrapper.jar
 
 # Ignore Gradle GUI config
 gradle-app.setting
@@ -39,3 +38,4 @@ gradle-app.setting
 hs_err_pid*
 
 .DS_Store
+!gradle/wrapper/gradle-wrapper.jar
